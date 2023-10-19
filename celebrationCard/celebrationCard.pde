@@ -16,7 +16,7 @@ void setup() {
   //Character Escapes, tab, new
   //
   //fullScreen();
-  size(600, 400);
+  size(1920, 1080);
   appWidth = width;
   appHeight = height;
   //
